@@ -35,7 +35,7 @@ Classification Report: Metrics were perfect across all classes.
 
 C. K-Nearest Neighbors (KNN)
 Number of Neighbors: 5.
-Accuracy: 97%.
+Accuracy: 100%.
 Slight misclassification observed in class 1, but overall performance was high.
 
 D. Decision Tree
@@ -53,4 +53,4 @@ Models and preprocessing scalers were saved using joblib for future use.
 
 
 Summary
-All models performed exceptionally well, with Logistic Regression, SVM, and Decision Tree achieving 100% accuracy. KNN provided slightly lower accuracy but demonstrated robust results. This project showcases the power of machine learning in predicting student outcomes with the right preprocessing and feature selection.
+All models performed exceptionally well, with Logistic Regression, KNN, SVM, and Decision Tree achieving 100% accuracy.  This project showcases the power of machine learning in predicting student outcomes with the right preprocessing and feature selection.
