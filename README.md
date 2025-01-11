@@ -1,4 +1,5 @@
 Analysis and Classification of Student Data
+
 This project involves analyzing and classifying a student dataset to predict their academic outcomes using various machine learning models. The workflow includes data preprocessing, splitting the dataset, model building, evaluation, and visualization.
 
 1. Importing Libraries
@@ -53,4 +54,5 @@ Models and preprocessing scalers were saved using joblib for future use.
 
 
 Summary
+
 All models performed exceptionally well, with Logistic Regression, KNN, SVM, and Decision Tree achieving 100% accuracy.  This project showcases the power of machine learning in predicting student outcomes with the right preprocessing and feature selection.
