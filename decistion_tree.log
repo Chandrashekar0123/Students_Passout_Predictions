@@ -1,0 +1,7 @@
+|--- feature_14 <= 0.36
+|   |--- feature_14 <= -0.76
+|   |   |--- class: 0
+|   |--- feature_14 >  -0.76
+|   |   |--- class: 1
+|--- feature_14 >  0.36
+|   |--- class: 2
