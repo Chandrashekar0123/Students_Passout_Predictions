@@ -57,18 +57,11 @@ Given a dataset of student demographics, attendance, prior qualifications, and a
 
 ---
 
-## 💾 Deployment Ready
-
-- All trained models and preprocessors saved via `joblib`
-- Easily integrable into web applications or batch prediction pipelines
-
----
-
 ## 📌 Summary
 
 - Achieved **100% classification accuracy** across all ML models
 - Demonstrated high model interpretability and scalability
-- A complete pipeline from data loading ➝ preprocessing ➝ training ➝ evaluation ➝ deployment
+- A complete pipeline from data loading ➝ preprocessing ➝ training ➝ evaluation ➝ Optimal Predictions
 
 ---
 
