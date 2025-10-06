@@ -14,6 +14,23 @@ Given a dataset of student demographics, attendance, prior qualifications, and a
 - **Features**: Gender, Attendance, Previous Qualification, Curricular Units, GPA, and more.
 - **Target Variable**: Final academic outcome.
 
+
+---
+
+## 📚 Feature Overview - Student Performance Prediction
+
+- **Course ID:** Number representing the course (1–20)  
+- **Attendance Type:** Whether the student attends Daytime or Evening classes  
+- **Previous Qualification:** Highest education level (e.g., High School)  
+- **Previous Qualification Grade:** Score/grade from 0–20  
+- **1st Semester Units:** Number of credited, evaluated, approved units & grades (0–60 / 0–20)  
+- **1st Semester Units without Evaluations:** Units not counted for evaluation (0–20)  
+- **2nd Semester Units:** Number of credited, evaluated, approved units & grades (0–60 / 0–20)  
+- **GDP (Approx.):** Approximate GDP of the student's region in USD  
+
+> 💡 Enter values within suggested ranges for better prediction accuracy.
+
+
 ---
 
 ## 🔧 Approach
@@ -41,7 +58,7 @@ Given a dataset of student demographics, attendance, prior qualifications, and a
 |------------------------|----------|----------------------------------------|
 | ✅ **Logistic Regression** | **100%**   | Perfect precision, recall, F1-score    |
 | ✅ **SVM (Linear Kernel)** | **100%**   | Clean classification                   |
-| ✅ **KNN (k=5)**           | **100%**   | Minor misclassifications               |
+| ✅ **KNN (k=5)**           | **97%**   | Minor misclassifications               |
 | ✅ **Decision Tree**       | **100%**   | Criterion: Entropy, Max Depth = 2      |
 
 - **All models achieved 100% accuracy**
@@ -62,6 +79,10 @@ Given a dataset of student demographics, attendance, prior qualifications, and a
 - Achieved **100% classification accuracy** across all ML models
 - Demonstrated high model interpretability and scalability
 - A complete pipeline from data loading ➝ preprocessing ➝ training ➝ evaluation ➝ Optimal Predictions
+
+---
+
+![alt text](image.png)
 
 ---
 
