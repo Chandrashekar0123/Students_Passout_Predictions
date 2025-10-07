@@ -82,6 +82,8 @@ Given a dataset of student demographics, attendance, prior qualifications, and a
 
 ---
 
+<img width="1364" height="381" alt="image" src="https://github.com/user-attachments/assets/e0a1ff58-2fb9-4285-bedb-9e56b7d95841" />
+
 ![alt text](image.png)
 
 ---
