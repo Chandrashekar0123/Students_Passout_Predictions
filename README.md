@@ -7,7 +7,17 @@ This project focuses on **predicting student academic outcomes** using advanced 
 Given a dataset of student demographics, attendance, prior qualifications, and academic performance, the objective is to **predict the final academic outcome** (Pass, Fail, Dropout) using various classification models.
 
 ---
+## 🎬 Demo Video
 
+![Demo Video Thumbnail](https://github.com/Chandrashekar0123/Students_Passout_Predictions/raw/main/assets/thumbnail.png)
+
+Click the image above to watch the demo video.
+
+✅ The video walkthrough includes:
+- GUI interface overview
+- Model input and output demonstration
+- Real-time graduation prediction
+---
 ## 📊 Dataset Overview
 
 - **Shape**: `(4424, 37)`
