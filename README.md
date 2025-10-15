@@ -9,7 +9,7 @@ Given a dataset of student demographics, attendance, prior qualifications, and a
 ---
 ## 🎬 Demo Video
 
-![Demo Video Thumbnail](https://github.com/Chandrashekar0123/Students_Passout_Predictions/raw/main/assets/thumbnail.png)
+[![Demo Video Thumbnail](https://raw.githubusercontent.com/Chandrashekar0123/Students_Passout_Predictions/main/assets/thumbnail.png)](https://raw.githubusercontent.com/Chandrashekar0123/Students_Passout_Predictions/main/Demo%20Video-Students%20Graduation%20Predictions.mp4)
 
 Click the image above to watch the demo video.
 
@@ -17,6 +17,7 @@ Click the image above to watch the demo video.
 - GUI interface overview
 - Model input and output demonstration
 - Real-time graduation prediction
+
 ---
 ## 📊 Dataset Overview
 
